@@ -1,0 +1,11 @@
+tensorflow
+scikit-learn
+pandas
+matplotlib
+seaborn
+
+graphviz
+pydot
+pydotplus
+
+altair
